@@ -1,4 +1,4 @@
-# code-formatter
+# Code Formatter
 Beautify HTML, CSS, JavaScript, JSON, and SQL Online: https://unminifydev.com/
 
 # Buy Me a Coffee ☕
