@@ -1,4 +1,4 @@
-# Code Formatter
+# Code Formatter [![Code Formatter](https://img.shields.io/badge/Code%20Formatter-Enabled-brightgreen)](https://unminifydev.com/)
 Beautify HTML, CSS, JavaScript, JSON, and SQL Online: https://unminifydev.com/
 
 # Buy Me a Coffee ☕
